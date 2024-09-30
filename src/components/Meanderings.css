@@ -1,0 +1,6 @@
+.meanderings-container {
+  /* Styles specific to the Meanderings component */
+  padding: 20px;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
